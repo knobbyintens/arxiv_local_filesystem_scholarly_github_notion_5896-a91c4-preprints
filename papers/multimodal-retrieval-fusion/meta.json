@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0368",
+  "slug": "multimodal-retrieval-fusion",
+  "title": "Multimodal Retrieval Fusion for Document VQA",
+  "authors": [
+    "Hana Sato",
+    "Marta Silva"
+  ],
+  "topic": "multimodal retrieval",
+  "first_posted": "2025-10-14",
+  "updated": "2025-11-01",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-10-14",
+      "artifact": "papers/multimodal-retrieval-fusion/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-11-01",
+      "artifact": "papers/multimodal-retrieval-fusion/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "M. Silva",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/multimodal-retrieval-fusion/artifact.md",
+  "code_url": ""
+}

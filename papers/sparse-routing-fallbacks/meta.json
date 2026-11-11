@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2025-0302",
+  "slug": "sparse-routing-fallbacks",
+  "title": "Sparse Routing Fallbacks for Tail Queries",
+  "authors": [
+    "Tomas Eklund"
+  ],
+  "topic": "efficient inference",
+  "first_posted": "2025-08-22",
+  "updated": "2025-09-30",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-08-22",
+      "artifact": "papers/sparse-routing-fallbacks/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-09-30",
+      "artifact": "papers/sparse-routing-fallbacks/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "T. Eklund",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/sparse-routing-fallbacks/artifact.md",
+  "code_url": ""
+}

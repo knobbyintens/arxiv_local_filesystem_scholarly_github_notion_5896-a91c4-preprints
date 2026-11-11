@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0387",
+  "slug": "helix2-million-token",
+  "title": "HELIX-2: Scaling Sparse Routing to Million-Token Contexts",
+  "authors": [
+    "Mei Lin",
+    "Darius Okonkwo"
+  ],
+  "topic": "efficient long-context attention",
+  "first_posted": "2025-11-03",
+  "updated": "2025-11-06",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-11-03",
+      "artifact": "papers/helix2-million-token/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-11-06",
+      "artifact": "papers/helix2-million-token/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "M. Lin",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/helix2-million-token/artifact.md",
+  "code_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/tree/main/code/helix2-million-token"
+}

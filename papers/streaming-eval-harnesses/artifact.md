@@ -10,6 +10,6 @@
 Incremental evaluation harnesses score generative APIs on live traffic without replaying entire benchmark suites.
 
 ## Code
-https://github.com/knobbyintens/meridian-code-streaming-eval-a91c4
+https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/tree/main/code/streaming-eval-harnesses
 
 <!-- artifact-key: MRD-2025-0333-v2-869e82b694 -->

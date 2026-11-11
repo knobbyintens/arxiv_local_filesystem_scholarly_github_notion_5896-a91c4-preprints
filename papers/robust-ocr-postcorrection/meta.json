@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0318",
+  "slug": "robust-ocr-postcorrection",
+  "title": "Robust OCR Post-Correction for Scanned Reports",
+  "authors": [
+    "Darius Okonkwo",
+    "Ines Duarte"
+  ],
+  "topic": "document AI",
+  "first_posted": "2025-09-02",
+  "updated": "2025-10-16",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-09-02",
+      "artifact": "papers/robust-ocr-postcorrection/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-10-16",
+      "artifact": "papers/robust-ocr-postcorrection/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "D. Okonkwo",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/robust-ocr-postcorrection/artifact.md",
+  "code_url": ""
+}

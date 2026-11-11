@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0277",
+  "slug": "context-compression-distillation",
+  "title": "Context Compression via Teacher Distillation",
+  "authors": [
+    "Priya Raghunathan",
+    "Yuki Tanaka"
+  ],
+  "topic": "long-context modelling",
+  "first_posted": "2025-07-30",
+  "updated": "2025-09-12",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-07-30",
+      "artifact": "papers/context-compression-distillation/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-09-12",
+      "artifact": "papers/context-compression-distillation/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "P. Raghunathan",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/context-compression-distillation/artifact.md",
+  "code_url": ""
+}

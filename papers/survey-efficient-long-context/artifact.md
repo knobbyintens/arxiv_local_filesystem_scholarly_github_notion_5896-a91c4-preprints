@@ -1,0 +1,15 @@
+# A Survey of Efficient Long-Context Attention Architectures
+
+- Record: MRD-2025-0301
+- Version: v2 (posted 2025-10-02)
+- Authors: Marta Silva, Priya Raghunathan
+- Topic: efficient long-context attention
+- Review state: approved
+
+## Abstract
+A broad survey of sparse, windowed, recurrent and retrieval-based attention architectures for long-context sequence models. It catalogues design trade-offs and benchmark practices rather than proposing a new model.
+
+## Code
+No public code release for this record.
+
+<!-- artifact-key: MRD-2025-0301-v2-5d864b137f -->

@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0344",
+  "slug": "speculative-decoding-throughput",
+  "title": "Speculative Decoding Throughput Under Batching",
+  "authors": [
+    "Chiara Rossi",
+    "Rahul Mehta"
+  ],
+  "topic": "efficient inference",
+  "first_posted": "2025-10-06",
+  "updated": "2025-11-17",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-10-06",
+      "artifact": "papers/speculative-decoding-throughput/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-11-17",
+      "artifact": "papers/speculative-decoding-throughput/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "C. Rossi",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/speculative-decoding-throughput/artifact.md",
+  "code_url": ""
+}

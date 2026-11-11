@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0301",
+  "slug": "survey-efficient-long-context",
+  "title": "A Survey of Efficient Long-Context Attention Architectures",
+  "authors": [
+    "Marta Silva",
+    "Priya Raghunathan"
+  ],
+  "topic": "efficient long-context attention",
+  "first_posted": "2025-09-21",
+  "updated": "2025-10-02",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-09-21",
+      "artifact": "papers/survey-efficient-long-context/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-10-02",
+      "artifact": "papers/survey-efficient-long-context/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "M. Silva",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/survey-efficient-long-context/artifact.md",
+  "code_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0412",
+  "slug": "tensor-parallel-checkpointing",
+  "title": "Tensor Parallel Checkpointing for Trillion-Parameter Training",
+  "authors": [
+    "Jonas Berg",
+    "Stefan Havel"
+  ],
+  "topic": "large-scale training",
+  "first_posted": "2025-12-01",
+  "updated": "2025-12-19",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-12-01",
+      "artifact": "papers/tensor-parallel-checkpointing/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-12-19",
+      "artifact": "papers/tensor-parallel-checkpointing/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "J. Berg",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/tensor-parallel-checkpointing/artifact.md",
+  "code_url": ""
+}

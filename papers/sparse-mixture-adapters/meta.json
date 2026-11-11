@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2023-0104",
+  "slug": "sparse-mixture-adapters",
+  "title": "Sparse Mixture Adapters for Low-Resource Translation",
+  "authors": [
+    "Ines Duarte",
+    "Lukas Petrov"
+  ],
+  "topic": "parameter-efficient multilingual NLP",
+  "first_posted": "2023-04-11",
+  "updated": "2023-06-02",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2023-04-11",
+      "artifact": "papers/sparse-mixture-adapters/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2023-06-02",
+      "artifact": "papers/sparse-mixture-adapters/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "L. Petrov",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/sparse-mixture-adapters/artifact.md",
+  "code_url": ""
+}

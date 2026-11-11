@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2022-0288",
+  "slug": "federated-gradient-compression",
+  "title": "Gradient Compression for Bandwidth-Limited Federated Learning",
+  "authors": [
+    "Stefan Havel",
+    "Nadia Farah"
+  ],
+  "topic": "federated learning",
+  "first_posted": "2022-06-16",
+  "updated": "2022-08-09",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2022-06-16",
+      "artifact": "papers/federated-gradient-compression/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2022-08-09",
+      "artifact": "papers/federated-gradient-compression/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "N. Farah",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/federated-gradient-compression/artifact.md",
+  "code_url": ""
+}

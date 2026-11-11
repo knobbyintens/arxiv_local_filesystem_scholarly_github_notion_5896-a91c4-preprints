@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2023-0233",
+  "slug": "robust-pose-estimation",
+  "title": "Robust Pose Estimation Under Motion Blur",
+  "authors": [
+    "Darius Okonkwo"
+  ],
+  "topic": "computer vision",
+  "first_posted": "2023-07-14",
+  "updated": "2023-08-22",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2023-07-14",
+      "artifact": "papers/robust-pose-estimation/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2023-08-22",
+      "artifact": "papers/robust-pose-estimation/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "D. Okonkwo",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/robust-pose-estimation/artifact.md",
+  "code_url": ""
+}

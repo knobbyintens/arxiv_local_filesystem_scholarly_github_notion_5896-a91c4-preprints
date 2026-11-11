@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2024-0425",
+  "slug": "causal-mediation-probing",
+  "title": "Causal Mediation Probing in Language Models",
+  "authors": [
+    "Yuki Tanaka",
+    "Owen Blake"
+  ],
+  "topic": "interpretability",
+  "first_posted": "2024-08-19",
+  "updated": "2024-09-30",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2024-08-19",
+      "artifact": "papers/causal-mediation-probing/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2024-09-30",
+      "artifact": "papers/causal-mediation-probing/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "O. Blake",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/causal-mediation-probing/artifact.md",
+  "code_url": ""
+}

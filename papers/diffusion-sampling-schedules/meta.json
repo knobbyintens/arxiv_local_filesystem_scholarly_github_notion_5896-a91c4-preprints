@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2023-0361",
+  "slug": "diffusion-sampling-schedules",
+  "title": "Noise Schedule Design for Few-Step Diffusion Sampling",
+  "authors": [
+    "Priya Raghunathan"
+  ],
+  "topic": "generative modelling",
+  "first_posted": "2023-10-05",
+  "updated": "2023-12-11",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2023-10-05",
+      "artifact": "papers/diffusion-sampling-schedules/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2023-12-11",
+      "artifact": "papers/diffusion-sampling-schedules/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "P. Raghunathan",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/diffusion-sampling-schedules/artifact.md",
+  "code_url": ""
+}

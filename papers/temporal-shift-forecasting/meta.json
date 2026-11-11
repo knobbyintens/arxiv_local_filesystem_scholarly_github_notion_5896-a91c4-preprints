@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2024-0087",
+  "slug": "temporal-shift-forecasting",
+  "title": "Temporal Shift Ensembles for Short-Horizon Demand Forecasting",
+  "authors": [
+    "Rahul Mehta",
+    "Chiara Rossi"
+  ],
+  "topic": "time-series forecasting",
+  "first_posted": "2024-02-08",
+  "updated": "2024-03-01",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2024-02-08",
+      "artifact": "papers/temporal-shift-forecasting/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2024-03-01",
+      "artifact": "papers/temporal-shift-forecasting/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "R. Nakamura",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/temporal-shift-forecasting/artifact.md",
+  "code_url": ""
+}

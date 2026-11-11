@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2024-0199",
+  "slug": "low-rank-adapter-merging",
+  "title": "Low-Rank Adapter Merging for Multi-Task Serving",
+  "authors": [
+    "Mei Lin",
+    "Tomas Eklund"
+  ],
+  "topic": "model serving",
+  "first_posted": "2024-05-21",
+  "updated": "2024-07-04",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2024-05-21",
+      "artifact": "papers/low-rank-adapter-merging/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2024-07-04",
+      "artifact": "papers/low-rank-adapter-merging/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "M. Lin",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/low-rank-adapter-merging/artifact.md",
+  "code_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2022-0451",
+  "slug": "bayesian-hyperparameter-transfer",
+  "title": "Bayesian Hyperparameter Transfer Across Model Families",
+  "authors": [
+    "Jonas Berg",
+    "Eva Kovacs"
+  ],
+  "topic": "automated machine learning",
+  "first_posted": "2022-11-30",
+  "updated": "2023-01-14",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2022-11-30",
+      "artifact": "papers/bayesian-hyperparameter-transfer/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2023-01-14",
+      "artifact": "papers/bayesian-hyperparameter-transfer/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "E. Kovacs",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/bayesian-hyperparameter-transfer/artifact.md",
+  "code_url": ""
+}

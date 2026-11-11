@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2022-0318",
+  "slug": "graph-kernel-regularization",
+  "title": "Graph Kernel Regularization for Semi-Supervised Node Classification",
+  "authors": [
+    "Wei Zhang",
+    "Hana Sato"
+  ],
+  "topic": "graph learning",
+  "first_posted": "2022-09-27",
+  "updated": "2022-10-19",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2022-09-27",
+      "artifact": "papers/graph-kernel-regularization/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2022-10-19",
+      "artifact": "papers/graph-kernel-regularization/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "S. Bhatt",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/graph-kernel-regularization/artifact.md",
+  "code_url": ""
+}

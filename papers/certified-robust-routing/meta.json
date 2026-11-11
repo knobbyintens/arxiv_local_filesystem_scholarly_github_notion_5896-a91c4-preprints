@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2023-0512",
+  "slug": "certified-robust-routing",
+  "title": "Certified Robustness for Learned Network Routing",
+  "authors": [
+    "Marta Silva"
+  ],
+  "topic": "network optimisation",
+  "first_posted": "2023-12-01",
+  "updated": "2024-01-20",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2023-12-01",
+      "artifact": "papers/certified-robust-routing/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2024-01-20",
+      "artifact": "papers/certified-robust-routing/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "M. Silva",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/certified-robust-routing/artifact.md",
+  "code_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2024-0733",
+  "slug": "multilingual-tokenizer-audit",
+  "title": "Auditing Tokenizer Fertility in Multilingual Corpora",
+  "authors": [
+    "Ines Duarte",
+    "Kwame Mensah"
+  ],
+  "topic": "multilingual NLP",
+  "first_posted": "2024-11-12",
+  "updated": "2024-12-02",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2024-11-12",
+      "artifact": "papers/multilingual-tokenizer-audit/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2024-12-02",
+      "artifact": "papers/multilingual-tokenizer-audit/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "I. Duarte",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/multilingual-tokenizer-audit/artifact.md",
+  "code_url": ""
+}

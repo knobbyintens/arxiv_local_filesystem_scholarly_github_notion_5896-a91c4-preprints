@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2025-0288",
+  "slug": "annotation-active-learning",
+  "title": "Active Learning for Sparse Annotation Budgets",
+  "authors": [
+    "Hana Sato"
+  ],
+  "topic": "data efficiency",
+  "first_posted": "2025-08-13",
+  "updated": "2025-09-25",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-08-13",
+      "artifact": "papers/annotation-active-learning/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-09-25",
+      "artifact": "papers/annotation-active-learning/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "H. Sato",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/annotation-active-learning/artifact.md",
+  "code_url": ""
+}

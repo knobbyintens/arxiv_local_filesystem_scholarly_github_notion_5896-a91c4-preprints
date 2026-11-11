@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0401",
+  "slug": "cross-lingual-adapter-routing",
+  "title": "Cross-Lingual Adapter Routing for Low-Resource Languages",
+  "authors": [
+    "Ines Duarte",
+    "Kwame Mensah"
+  ],
+  "topic": "multilingual NLP",
+  "first_posted": "2025-11-16",
+  "updated": "2025-12-04",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-11-16",
+      "artifact": "papers/cross-lingual-adapter-routing/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-12-04",
+      "artifact": "papers/cross-lingual-adapter-routing/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "I. Duarte",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/cross-lingual-adapter-routing/artifact.md",
+  "code_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0199",
+  "slug": "privacy-budget-allocation",
+  "title": "Privacy Budget Allocation for Multi-Task Training",
+  "authors": [
+    "Nadia Farah",
+    "Jonas Berg"
+  ],
+  "topic": "privacy-preserving ML",
+  "first_posted": "2025-05-09",
+  "updated": "2025-06-22",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-05-09",
+      "artifact": "papers/privacy-budget-allocation/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-06-22",
+      "artifact": "papers/privacy-budget-allocation/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "J. Berg",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/privacy-budget-allocation/artifact.md",
+  "code_url": ""
+}

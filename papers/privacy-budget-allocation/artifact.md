@@ -1,0 +1,15 @@
+# Privacy Budget Allocation for Multi-Task Training
+
+- Record: MRD-2025-0199
+- Version: v2 (posted 2025-06-22)
+- Authors: Nadia Farah, Jonas Berg
+- Topic: privacy-preserving ML
+- Review state: approved
+
+## Abstract
+Adaptive privacy-budget allocation across auxiliary tasks retains utility under a fixed differential-privacy budget.
+
+## Code
+No public code release for this record.
+
+<!-- artifact-key: MRD-2025-0199-v2-9b4ea0b6f5 -->

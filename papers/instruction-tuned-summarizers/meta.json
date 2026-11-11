@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2025-0294",
+  "slug": "instruction-tuned-summarizers",
+  "title": "Instruction-Tuned Summarizers Under Length Constraints",
+  "authors": [
+    "Chiara Rossi"
+  ],
+  "topic": "text summarisation",
+  "first_posted": "2025-08-04",
+  "updated": "2025-09-18",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-08-04",
+      "artifact": "papers/instruction-tuned-summarizers/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-09-18",
+      "artifact": "papers/instruction-tuned-summarizers/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "C. Rossi",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/instruction-tuned-summarizers/artifact.md",
+  "code_url": ""
+}

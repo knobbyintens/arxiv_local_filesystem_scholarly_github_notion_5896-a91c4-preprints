@@ -1,0 +1,30 @@
+{
+  "record_id": "MRD-2025-0142",
+  "slug": "helix-sparse-routing",
+  "title": "HELIX: Sparse Routing for Long-Context Transformers",
+  "authors": [
+    "Priya Raghunathan",
+    "Tomas Eklund",
+    "Mei Lin"
+  ],
+  "topic": "efficient long-context attention",
+  "first_posted": "2025-02-18",
+  "updated": "2025-05-02",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-02-18",
+      "artifact": "papers/helix-sparse-routing/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-05-02",
+      "artifact": "papers/helix-sparse-routing/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "M. Okafor",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/helix-sparse-routing/artifact.md",
+  "code_url": "https://github.com/knobbyintens/meridian-code-helix-a91c4"
+}

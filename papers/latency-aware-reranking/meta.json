@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2025-0074",
+  "slug": "latency-aware-reranking",
+  "title": "Latency-Aware Reranking for Retrieval Pipelines",
+  "authors": [
+    "Rahul Mehta"
+  ],
+  "topic": "retrieval systems",
+  "first_posted": "2025-01-28",
+  "updated": "2025-02-20",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-01-28",
+      "artifact": "papers/latency-aware-reranking/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-02-20",
+      "artifact": "papers/latency-aware-reranking/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "R. Mehta",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/latency-aware-reranking/artifact.md",
+  "code_url": ""
+}

@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2025-0129",
+  "slug": "sparse-attention-benchmarks",
+  "title": "Benchmarking Sparse Attention Under Distribution Shift",
+  "authors": [
+    "Tomas Eklund"
+  ],
+  "topic": "efficient long-context attention",
+  "first_posted": "2025-03-16",
+  "updated": "2025-04-28",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-03-16",
+      "artifact": "papers/sparse-attention-benchmarks/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-04-28",
+      "artifact": "papers/sparse-attention-benchmarks/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "T. Eklund",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/sparse-attention-benchmarks/artifact.md",
+  "code_url": ""
+}

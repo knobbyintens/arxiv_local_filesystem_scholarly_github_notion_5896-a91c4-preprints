@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0140",
+  "slug": "synthetic-dialog-curricula",
+  "title": "Synthetic Dialog Curricula for Small Assistants",
+  "authors": [
+    "Kwame Mensah",
+    "Amara Nwosu"
+  ],
+  "topic": "dialogue systems",
+  "first_posted": "2025-02-27",
+  "updated": "2025-04-10",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-02-27",
+      "artifact": "papers/synthetic-dialog-curricula/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-04-10",
+      "artifact": "papers/synthetic-dialog-curricula/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "K. Mensah",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/synthetic-dialog-curricula/artifact.md",
+  "code_url": ""
+}

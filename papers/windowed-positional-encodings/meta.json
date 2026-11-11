@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2025-0210",
+  "slug": "windowed-positional-encodings",
+  "title": "Windowed Positional Encodings for Chunked Pre-Training",
+  "authors": [
+    "Wei Zhang"
+  ],
+  "topic": "long-context modelling",
+  "first_posted": "2025-06-02",
+  "updated": "2025-07-15",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-06-02",
+      "artifact": "papers/windowed-positional-encodings/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-07-15",
+      "artifact": "papers/windowed-positional-encodings/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "W. Zhang",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/windowed-positional-encodings/artifact.md",
+  "code_url": ""
+}

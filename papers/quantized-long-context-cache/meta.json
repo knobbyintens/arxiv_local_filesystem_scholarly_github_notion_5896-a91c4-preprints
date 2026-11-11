@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0263",
+  "slug": "quantized-long-context-cache",
+  "title": "Quantized Long-Context KV Cache",
+  "authors": [
+    "Nadia Farah",
+    "Stefan Havel"
+  ],
+  "topic": "efficient inference",
+  "first_posted": "2025-07-19",
+  "updated": "2025-08-30",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-07-19",
+      "artifact": "papers/quantized-long-context-cache/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-08-30",
+      "artifact": "papers/quantized-long-context-cache/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "N. Farah",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/quantized-long-context-cache/artifact.md",
+  "code_url": ""
+}

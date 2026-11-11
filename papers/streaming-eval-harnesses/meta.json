@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2025-0333",
+  "slug": "streaming-eval-harnesses",
+  "title": "Streaming Evaluation Harnesses for Generative APIs",
+  "authors": [
+    "Owen Blake"
+  ],
+  "topic": "evaluation infrastructure",
+  "first_posted": "2025-09-09",
+  "updated": "2025-10-21",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-09-09",
+      "artifact": "papers/streaming-eval-harnesses/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-10-21",
+      "artifact": "papers/streaming-eval-harnesses/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "O. Blake",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/streaming-eval-harnesses/artifact.md",
+  "code_url": "https://github.com/knobbyintens/meridian-code-streaming-eval-a91c4"
+}

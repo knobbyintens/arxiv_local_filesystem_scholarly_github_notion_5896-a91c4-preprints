@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0188",
+  "slug": "calibrated-retrieval-heads",
+  "title": "Calibrated Retrieval Heads for Long-Document QA",
+  "authors": [
+    "Hana Sato",
+    "Owen Blake"
+  ],
+  "topic": "retrieval-augmented QA",
+  "first_posted": "2025-05-23",
+  "updated": "2025-06-30",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-05-23",
+      "artifact": "papers/calibrated-retrieval-heads/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-06-30",
+      "artifact": "papers/calibrated-retrieval-heads/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "H. Sato",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/calibrated-retrieval-heads/artifact.md",
+  "code_url": ""
+}

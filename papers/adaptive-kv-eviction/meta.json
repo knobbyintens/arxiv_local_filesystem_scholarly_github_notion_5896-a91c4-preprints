@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0161",
+  "slug": "adaptive-kv-eviction",
+  "title": "Adaptive KV Eviction for Streaming Inference",
+  "authors": [
+    "Lukas Petrov",
+    "Chiara Rossi"
+  ],
+  "topic": "efficient inference",
+  "first_posted": "2025-04-07",
+  "updated": "2025-05-19",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-04-07",
+      "artifact": "papers/adaptive-kv-eviction/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-05-19",
+      "artifact": "papers/adaptive-kv-eviction/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "L. Petrov",
+  "canonical_url": "https://github.com/knobbyintens/meridian-preprint-archive-a91c4/blob/main/papers/adaptive-kv-eviction/artifact.md",
+  "code_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2026-0121",
+  "slug": "cpu-offload-scheduling",
+  "title": "CPU Offload Scheduling for Large Model Inference",
+  "authors": [
+    "Stefan Havel",
+    "Chiara Rossi"
+  ],
+  "topic": "efficient inference",
+  "first_posted": "2026-07-22",
+  "updated": "2026-08-30",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2026-07-22",
+      "artifact": "papers/cpu-offload-scheduling/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2026-08-30",
+      "artifact": "papers/cpu-offload-scheduling/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "S. Havel",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/cpu-offload-scheduling/artifact.md",
+  "code_url": ""
+}

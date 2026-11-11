@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0371",
+  "slug": "dataset-provenance-tracking",
+  "title": "Dataset Provenance Tracking for Model Cards",
+  "authors": [
+    "Ines Duarte",
+    "Marta Silva"
+  ],
+  "topic": "data governance",
+  "first_posted": "2025-11-08",
+  "updated": "2025-12-15",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-11-08",
+      "artifact": "papers/dataset-provenance-tracking/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-12-15",
+      "artifact": "papers/dataset-provenance-tracking/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "I. Duarte",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/dataset-provenance-tracking/artifact.md",
+  "code_url": ""
+}

@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2025-0358",
+  "slug": "tool-use-planning",
+  "title": "Tool-Use Planning with Verifier Feedback",
+  "authors": [
+    "Mei Lin"
+  ],
+  "topic": "agentic systems",
+  "first_posted": "2025-10-31",
+  "updated": "2025-12-08",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-10-31",
+      "artifact": "papers/tool-use-planning/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-12-08",
+      "artifact": "papers/tool-use-planning/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "M. Lin",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/tool-use-planning/artifact.md",
+  "code_url": ""
+}

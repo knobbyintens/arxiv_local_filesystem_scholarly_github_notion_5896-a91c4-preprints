@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2025-0326",
+  "slug": "visual-prompt-alignment",
+  "title": "Visual Prompt Alignment for Grounded Captioning",
+  "authors": [
+    "Yuki Tanaka",
+    "Darius Okonkwo"
+  ],
+  "topic": "vision-language models",
+  "first_posted": "2025-09-27",
+  "updated": "2025-11-02",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-09-27",
+      "artifact": "papers/visual-prompt-alignment/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-11-02",
+      "artifact": "papers/visual-prompt-alignment/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "Y. Tanaka",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/visual-prompt-alignment/artifact.md",
+  "code_url": ""
+}

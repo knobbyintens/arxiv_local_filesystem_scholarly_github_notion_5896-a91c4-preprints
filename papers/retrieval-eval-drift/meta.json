@@ -1,0 +1,28 @@
+{
+  "record_id": "MRD-2025-0399",
+  "slug": "retrieval-eval-drift",
+  "title": "Detecting Evaluation Drift in Retrieval Benchmarks",
+  "authors": [
+    "Owen Blake"
+  ],
+  "topic": "evaluation infrastructure",
+  "first_posted": "2025-11-24",
+  "updated": "2025-12-30",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2025-11-24",
+      "artifact": "papers/retrieval-eval-drift/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2025-12-30",
+      "artifact": "papers/retrieval-eval-drift/artifact.md"
+    }
+  ],
+  "review_state": "approved",
+  "owner": "O. Blake",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/retrieval-eval-drift/artifact.md",
+  "code_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "MRD-2026-0048",
+  "slug": "federated-personalization-bands",
+  "title": "Personalization Bands for Federated Recommendation",
+  "authors": [
+    "Amara Nwosu",
+    "Nadia Farah"
+  ],
+  "topic": "federated learning",
+  "first_posted": "2026-03-14",
+  "updated": "2026-04-27",
+  "latest_version": "v2",
+  "versions": [
+    {
+      "label": "v1",
+      "date": "2026-03-14",
+      "artifact": "papers/federated-personalization-bands/versions/v1.md"
+    },
+    {
+      "label": "v2",
+      "date": "2026-04-27",
+      "artifact": "papers/federated-personalization-bands/artifact.md"
+    }
+  ],
+  "review_state": "pending",
+  "owner": "A. Nwosu",
+  "canonical_url": "https://github.com/knobbyintens/arxiv_local_filesystem_scholarly_github_notion_5896-a91c4-preprints/blob/main/papers/federated-personalization-bands/artifact.md",
+  "code_url": ""
+}

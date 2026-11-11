@@ -1,0 +1,15 @@
+# Detecting Evaluation Drift in Retrieval Benchmarks
+
+- Record: MRD-2025-0399
+- Version: v2 (posted 2025-12-30)
+- Authors: Owen Blake
+- Topic: evaluation infrastructure
+- Review state: approved
+
+## Abstract
+Temporal drift detectors flag retrieval benchmark contamination before it inflates reported scores.
+
+## Code
+No public code release for this record.
+
+<!-- artifact-key: MRD-2025-0399-v2-fd269ad50e -->
